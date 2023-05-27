@@ -1,0 +1,20 @@
+{
+  "name": "layerzero_aptos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "aptos": "^1.4.0",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
+    "web3": "^1.8.1"
+  }
+}
